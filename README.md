@@ -17,7 +17,7 @@ The files (Wolfram Notebooks) are as follows:
 
 **BayesianVergence2025**: is the code which derives the model and plots Figures 4, 5, 6 and 7 in the paper. The code has a toggle to save out figures and two equations (posterior probability distributions).
 
-**makeResposeDistributions**: loads in the equations produced by BayesianVergence2025 and calculates response distributions and saves these out to file. It also produces Figure 8 and 9 in the paper. 
+**makeResposeDistributions**: loads in the equations produced by BayesianVergence2025 and calculates response distributions and saves these out to file. It also produces Figure 8 and 9 in the paper. To avoid the use of the Mathstatica plugin we provide these files dircetly (distancePDFa and vergencePDFa).
 
 **responseDistributionSurface**: loads in the data produced by makeResposeDistributions and plots Figure 9 in the paper. 
 
