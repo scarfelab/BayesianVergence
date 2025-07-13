@@ -1,5 +1,5 @@
 # BayesianVergence
-## The code accompanies the paper “A Bayesian model of distance perception from ocular convergence” by Peter Scarfe and Paul Hibbard.
+### The code accompanies the paper “A Bayesian model of distance perception from ocular convergence” by Peter Scarfe and Paul Hibbard.
 
 The code runs in Mathematica/Wolfram:
 https://www.wolfram.com
